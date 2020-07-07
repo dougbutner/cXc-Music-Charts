@@ -7,7 +7,7 @@ This repo holds
 2. cXc Music Beta Monthly charts (Future)
 
 # Format
-Share
+Top 64 in Markdown with one player link, Youtube if available, then Soundcloud or Spotify
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTI5MzMyNF19
+eyJoaXN0b3J5IjpbLTUxMjk2MDEwMiwxNjQ1MjkzMzI0XX0=
 -->
