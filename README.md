@@ -7,9 +7,13 @@ This repo holds
 2. cXc Music Beta Gregorian charts (Future)
 
 # Format
-Top 64 in Markdown with **one player link**, Youtube if available, then Soundcloud or Spotify.
+Top 64
+ Markdown
+\#p **one player link**, Youtube if available, then Soundcloud or Spotify.
 
+
+![Screenshot 20200707 01.21.40.png](https://files.peakd.com/file/peakd-hive/currentxchange/y0BN1O8R-Screenshot202020-07-072001.21.40.png)
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTc0MzEyMCwxNjQ1MjkzMzI0XX0=
+eyJoaXN0b3J5IjpbMTcwMzI5NDg4OSwxNjQ1MjkzMzI0XX0=
 -->
