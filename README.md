@@ -4,11 +4,11 @@ A record of the Daily, Weekly, Monthly and Yearly Top Music charts on cXc Music 
 # About This Repo
 This repo holds 
 1. cXc Music SE Global charts
-2. cXc Music SE Monthly charts 
+2. cXc Music Beta Monthly charts (Future)
 
 # Format
 
-Chare
+Share
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODM1OTgyMl19
+eyJoaXN0b3J5IjpbLTU5MTcxNTM2Ml19
 -->
