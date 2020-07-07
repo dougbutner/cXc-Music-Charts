@@ -8,16 +8,17 @@ This repo holds **Markdown (.md)** files for
 
 # Format
 \#position
-Title (linked to cXc Music Players)
-Link (to **one player **, Youtube if available, then Soundcloud or Spotify)
-Number of UPs received
-Number of Views on cXc Music
-Mood, Genre, Format (Linked to corresponding songs display on cXc Music )
+**Title** (linked to cXc Music Players)
+**Link** (to **one player **, **Youtube** if available, then **Soundcloud** or **Spotify**)
+Number of **UPs** received
+Number of **Views** on cXc Music
+**Mood**, **Genre**, **Format** (Linked to corresponding songs display on cXc Music )
 
 ## Here's a sample of the formatting displayed on Peakd.com
 
 ![Screenshot 20200707 01.21.40.png](https://files.peakd.com/file/peakd-hive/currentxchange/y0BN1O8R-Screenshot202020-07-072001.21.40.png)
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjkzMjk2OSwxNjQ1MjkzMzI0XX0=
+eyJoaXN0b3J5IjpbMTkzOTEzNDEwMywtNjc2OTMyOTY5LDE2ND
+UyOTMzMjRdfQ==
 -->
