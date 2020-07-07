@@ -16,10 +16,10 @@ Number of UPs received
 Number of Views on cXc Music
 Mood, Genre, Format (Linked to corresponding songs display on cXc Music )
 
-## Here's a sample of the formatting displayed on the markdown parPeakd.com
+## Here's a sample of the formatting displayed on Peakd.com
 
 ![Screenshot 20200707 01.21.40.png](https://files.peakd.com/file/peakd-hive/currentxchange/y0BN1O8R-Screenshot202020-07-072001.21.40.png)
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5OTIwNjY0LDE2NDUyOTMzMjRdfQ==
+eyJoaXN0b3J5IjpbLTE2OTEyMjQwNywxNjQ1MjkzMzI0XX0=
 -->
