@@ -5,6 +5,7 @@ A record of the Daily, Weekly, Monthly and Yearly Top Music charts on cXc Music 
 This repo holds **Markdown (.md)** files for
 1. cXc Music SE Global All-time charts
 2. cXc Music Beta Gregorian charts (Future)
+#Qui
 
 # Format
 \#position
@@ -19,6 +20,6 @@ Number of **Views** on cXc Music
 ![Screenshot 20200707 01.21.40.png](https://files.peakd.com/file/peakd-hive/currentxchange/y0BN1O8R-Screenshot202020-07-072001.21.40.png)
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTEzNDEwMywtNjc2OTMyOTY5LDE2ND
-UyOTMzMjRdfQ==
+eyJoaXN0b3J5IjpbLTU1OTYxMjcyNSwxOTM5MTM0MTAzLC02Nz
+Y5MzI5NjksMTY0NTI5MzMyNF19
 -->
